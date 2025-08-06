@@ -95,4 +95,4 @@ spark.sql("CREATE SCHEMA IF NOT EXISTS elenir_gold")
 
 ## 📥 Contato
 
-Projeto desenvolvido com base no desafio da Savana Tech e BlueShift.
+Projeto desenvolvido com base no desafio da Savana Tech e BlueShift Academy.
